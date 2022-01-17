@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'pastapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_62B695A874D9483BA267C1256D409955 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_67C21E1758E246878072DC758D6FCFC3 }}
           package: '*.war'
